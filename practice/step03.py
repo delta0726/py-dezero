@@ -34,7 +34,7 @@ class Variable:
         self.data = data
 
 # クラス定義
-# --- 関数を実行するための変数を抽出してメイン計算に渡す基底クラス
+# --- 関数を実行するための変数を抽出/格納してメイン計算に渡す基底クラス
 class Function:
     def __call__(self, input):
         x = input.data
