@@ -60,6 +60,7 @@ class Function:
 
 
 # クラス継承
+# --- Square関数の実装
 # --- 基底クラス(Function)を継承して入力された値を二乗するメソッドを実装する
 class Square(Function):
     def forward(self, x):
