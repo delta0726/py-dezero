@@ -2,7 +2,6 @@
 # Title       : ゼロから作るDeep Learning3 （フレームワーク編）
 # Stage       : 1 微分を自動で求める
 # Step        : 03 関数の連結
-# Theme       : Exp関数の実装
 # Create Date : 2021/10/04
 # Update Date : 2022/01/06
 # Page        : P15 - P17
