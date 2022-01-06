@@ -2,7 +2,6 @@
 # Title       : ゼロから作るDeep Learning3 （フレームワーク編）
 # Stage       : 1 微分を自動で求める
 # Step        : 02 変数を生み出す関数
-# Theme       : Variableクラスの実装
 # Create Date : 2021/10/04
 # Update Date : 2022/01/05
 # Page        : P9 - P13
