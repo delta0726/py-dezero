@@ -40,7 +40,7 @@ class Variable:
 # 2 Exp関数の追加実装 ------------------------------------------------------
 
 # ＜ポイント＞
-# - Functionクラスを継承してFowardメソッドにExp関数を実装する（Square関数と同様）
+# - Functionクラスを継承してForwardメソッドにExp関数を実装する（Square関数と同様）
 
 
 # クラス定義
@@ -53,7 +53,7 @@ class Function:
         output = Variable(y)
         return output
 
-    def foward(self, x):
+    def forward(self, x):
         raise NotImplementedError()
 
 
